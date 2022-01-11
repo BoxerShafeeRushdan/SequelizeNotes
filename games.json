@@ -1,0 +1,7 @@
+{
+    "data":[
+        {"name": "SSB", "platform": "PS5"},
+        {"name": "2k", "platform": "Xbox"},
+        {"name": "GTA", "platform": "Switch"}
+    ]
+}
